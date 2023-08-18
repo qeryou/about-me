@@ -2,10 +2,19 @@ body {
     background-color: rgb(177, 156, 217)
 }
 h1 {
-    color: beige
+    color: beige;
+    font-family: cursive;
+    text-align: center;
 }
 
-img {
+div.nwjnsPic, img {
+    float: right;
     width: 300px;
-    border-radius: 25px;
+    border-top-right-radius: 52px;
+    border-bottom-right-radius: 52px;
+    padding-left: 20px;
+}
+.about {
+    text-size-adjust: 1.5px;
+    font-family: cursive;
 }
