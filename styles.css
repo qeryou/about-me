@@ -1,6 +1,17 @@
 body {
-    background-color: rgb(177, 156, 217)
+    background-color: rgb(177, 156, 217);
 }
 h1 {
     color: beige
 }
+p {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+h2, h1 {
+    text-align: center;
+}
+div.white {
+    background-color: white;
+    width: 75%;
+    height: 75%;
