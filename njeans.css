@@ -6,15 +6,23 @@ h1 {
     font-family: cursive;
     text-align: center;
 }
-
 div.nwjnsPic, img {
-    float: right;
     width: 300px;
+    float: left;
     border-top-right-radius: 52px;
     border-bottom-right-radius: 52px;
-    padding-left: 20px;
+    padding-right: 20px;
 }
 .about {
     text-size-adjust: 1.5px;
     font-family: cursive;
+    
 }
+
+/* .image_preview_container {
+  mask-image: linear-gradient(to right, rgba(0, 0, 0, 1.0) 50%, transparent 100%);
+}
+.image_preview {
+  background-image: url("IMAGE LOCATION");
+}
+*/
