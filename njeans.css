@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(177, 156, 217)
+    background-color: rgb(177, 156, 217);
+    font-family: cursive;
+    text-size-adjust: 1.5px;
 }
 h1 {
     color: beige;
@@ -7,22 +9,14 @@ h1 {
     text-align: center;
 }
 div.nwjnsPic, img {
-    width: 300px;
+    width: 500px;
     float: left;
     border-top-right-radius: 52px;
     border-bottom-right-radius: 52px;
     padding-right: 20px;
 }
-.about {
-    text-size-adjust: 1.5px;
-    font-family: cursive;
-    
+
+ul, p {
+  text-size-adjust: 1px;;
 }
 
-/* .image_preview_container {
-  mask-image: linear-gradient(to right, rgba(0, 0, 0, 1.0) 50%, transparent 100%);
-}
-.image_preview {
-  background-image: url("IMAGE LOCATION");
-}
-*/
