@@ -11,7 +11,9 @@ p {
 h2, h1 {
     text-align: center;
 }
-div.white {
+.white {
     background-color: white;
     width: 75%;
     height: 75%;
+    align-items: center; 
+}
